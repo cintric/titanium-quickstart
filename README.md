@@ -1,5 +1,3 @@
-# titanium-quickstart
-
 Titanium Cintric iOS SDK Wrapper
 ===========================================
 Free drag and drop background location analytics for your app! Sign-up at Cintric.com to get your FREE SDK-Keys. 
