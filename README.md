@@ -5,7 +5,7 @@ Free drag and drop background location analytics for your app! Sign-up at Cintri
 QUICKSTART
 ------------
 
-1. In appcelerator studio, choose help > install mobile module. Enter “https://cintric.com/sdk/titanium” for the URL and press ok (you can choose to install local or global if you prefer).
+1. In appcelerator studio, choose help > install mobile module. Enter https://cintric.com/sdk/titanium for the URL and press ok (you can choose to install local or global if you prefer).
 
 2. Add the following location flags to your tiapp.xml file under `<ios><plist><dict>`  
         `       <key>NSLocationAlwaysUsageDescription</key>
